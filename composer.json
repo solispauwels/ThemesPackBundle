@@ -1,0 +1,23 @@
+{
+    "name": "solispauwels/ThemesPackBundle",
+    "description": "Themes pack for Claroline Connect",
+    "keywords": ["Claroline", "Theme", "plugin", "Pack", "Claroline Connect"],
+    "homepage": "http://www.jorgesolis.be",
+    "type": "claroline-plugin",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Jorge Solis Pauwels",
+            "email": "mail@jorgesolis.be",
+            "homepage": "http://github.com/solispauwels"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.1",
+        "claroline/core-bundle": ">=2.12,<3.0"
+    },
+    "autoload": {
+        "psr-0": { "SolisPauwels\\ThemesPackBundle": "" }
+    },
+    "target-dir": "SolisPauwels/ThemesPackBundle"
+}

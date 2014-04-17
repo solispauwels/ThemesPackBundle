@@ -1,0 +1,8 @@
+plugin:
+  has_options: false
+
+  themes:
+    - name: "Navel"
+      path: less/navel/theme.html.twig
+
+
