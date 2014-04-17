@@ -2,7 +2,8 @@ plugin:
   has_options: false
 
   themes:
-    - name: "Deer"
-      path: less/deer/theme.html.twig
-
+    - name: "Hawkes Blue"
+      path: less/hawkes-blue/theme.html.twig
+    - name: "Matisse Tuna"
+      path: less/matisse-tuna/theme.html.twig
 
