@@ -2,7 +2,7 @@ plugin:
   has_options: false
 
   themes:
-    - name: "Navel"
-      path: less/navel/theme.html.twig
+    - name: "Deer"
+      path: less/deer/theme.html.twig
 
 
