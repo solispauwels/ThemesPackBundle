@@ -5,7 +5,7 @@ Installation
 ------------
 
 ```sh
-composer require solispauwels/themes-pack-bundle dev-master
+composer require solispauwels/themes-pack-bundle
 php app/console claroline:plugin:install SolisPauwelsThemesPackBundle
 php app/console assetic:dump
 ```
